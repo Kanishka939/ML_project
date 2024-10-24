@@ -1,6 +1,6 @@
 # housing-rent-prediction
 
-This is the github repository created for the End to End Machine Learning project done by: <a href="mailto:aayushmaan1306@gmail.com">Aayushmaan Jain</a> and <a href="mailto:patro.pratyush51@nmims.edu.in">Pratyush Patro</a>
+This is the github repository created for the End to End Machine Learning project done by: <a href="kanishkasahu93403@gmail.con">Kanishka sahu</a>
 
 
 Which involves creating a web app which is able to take inputs and predict house prices in the following cities:
@@ -129,5 +129,3 @@ Thanks Page
 
 This project is deployed on a production server by using gunicorn and nginx then connected to a domain via namecheap.<br>
 The machine learning models on the server are retrained on the first of every month by using the combine.py script<br>
-
-<a href = "https://aayushmaan1306.medium.com/end-to-end-machine-learning-project-a3543c89f6eb">Medium Blog</a>
